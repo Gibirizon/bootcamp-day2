@@ -5,7 +5,6 @@
 		{{ wpisy }}
 		<input v-model="nowyBlog" type="text" />
 		<button @click="dodajWpisy">dodaj</button>
-		{{ nowyBlog }}
 	</div>
 </template>
 
