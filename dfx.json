@@ -4,8 +4,7 @@
       "candid": "src/dzien2_backend/dzien2_backend.did",
       "package": "dzien2_backend",
       "type": "rust"
-    },
-    "dzien2_frontend": {
+    }, "dzien2_frontend": {
       "dependencies": [
         "dzien2_backend"
       ],
